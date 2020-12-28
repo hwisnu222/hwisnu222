@@ -1,7 +1,7 @@
 ### Hi World
 
-😊 my name wisnu harjanta, \
-💻 i'm front end developer.\
+😊 My name wisnu harjanta, \
+💻 I'm front end developer.\
 🔑 and this is several my code.
 
 ### 🛠 Most Languages
