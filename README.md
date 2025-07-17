@@ -1,12 +1,6 @@
 # **Wisnu Harjanta**  
 ### **Front-End Developer & Full-Stack Enthusiast**  
-🌐 *Crafting pixel-perfect experiences with modern web technologies*  
-
-<p align="center">
-  <a href="https://github.com/hwisnu222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=78DCE8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;React+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
-  </a>
-</p>
+🌐 *Crafting pixel-perfect experiences with modern web technologies* 
 
 ---
 
